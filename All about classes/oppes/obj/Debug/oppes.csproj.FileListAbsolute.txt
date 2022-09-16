@@ -1,0 +1,8 @@
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\bin\Debug\oppes.exe.config
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\bin\Debug\oppes.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\bin\Debug\oppes.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\obj\Debug\oppes.csproj.AssemblyReference.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\obj\Debug\oppes.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\obj\Debug\oppes.csproj.CoreCompileInputs.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\obj\Debug\oppes.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\oppes\obj\Debug\oppes.pdb
