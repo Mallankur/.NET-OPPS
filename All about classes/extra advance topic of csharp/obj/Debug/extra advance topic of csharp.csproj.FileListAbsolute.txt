@@ -6,3 +6,11 @@ C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\
 C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.csproj.CoreCompileInputs.cache
 C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.exe
 C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\bin\Debug\extra advance topic of csharp.exe.config
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\bin\Debug\extra advance topic of csharp.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\bin\Debug\extra advance topic of csharp.pdb
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.csproj.AssemblyReference.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.csproj.CoreCompileInputs.cache
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.exe
+C:\Users\a.mall\OneDrive - Adform\Desktop\Advance topic in C#\.NET-OPPS\All about classes\extra advance topic of csharp\obj\Debug\extra advance topic of csharp.pdb

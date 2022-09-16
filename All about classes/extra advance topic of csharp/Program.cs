@@ -15,26 +15,23 @@ namespace extra_advance_topic_of_csharp
         static void Main(string[] args)
         {
             var bk= new BookRepositary ().GetBooks();
-             var cheaperbook =
-                from b in bk
-                where b.Price <10
-                orderby b.Title 
-                select b;
-            // writing same code using LINQ QUERY OPERATORS 
 
-            // LINQ EXTENSION METHODS 
-            // shorted by Where // .orderby /.select
-            var cheapbooklst = bk
-                                 .Where(b => b.Price < 100)
-                                 .OrderBy(b => b.Title)
-                                 .Select(b => b.Title);
-           
-           
-            foreach (var book in cheapbooklst)
-            {
-                Console.WriteLine(book);
-               // Console.WriteLine(book.Title + "   "+  book.Price);
+            //LINQ Extension Methods
+            try { 
+               var binbook =bk.
+                    Single(b=>b.Title == "Add.Net MVC+++ ");
+                Console.WriteLine(binbook.Title);
+            
+
             }
+            catch (Exception)
+            {
+
+                Console.WriteLine ("Not Found");
+            }
+
+
+             
             Console.ReadLine();
 
         }
