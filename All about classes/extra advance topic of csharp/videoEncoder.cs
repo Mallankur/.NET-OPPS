@@ -18,7 +18,7 @@ namespace extra_advance_topic_of_csharp
 
         }
         protected virtual void OnVideoEncode()
-        {
+        {   
 
         }
 

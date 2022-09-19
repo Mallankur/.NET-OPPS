@@ -19,7 +19,7 @@ namespace extra_advance_topic_of_csharp
             //LINQ Extension Methods
             try { 
                var binbook =bk.
-                    Single(b=>b.Title == "Add.Net MVC+++ ");
+                    First(b=>b.Title == " ");
                 Console.WriteLine(binbook.Title);
             
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace ServerChat_piolet_projet
 {
+    
     public class VideoEncoder
     {
         private readonly IList<INotificationChannel> _notificationChannel;
