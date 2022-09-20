@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employess.cs" />
     <Compile Include="INotificationChannel.cs" />
+    <Compile Include="Itask.cs" />
     <Compile Include="MailNotificationChannel.cs" />
     <Compile Include="Message.cs" />
     <Compile Include="Post.cs" />
@@ -51,8 +53,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SmsNotificationChannel.cs" />
     <Compile Include="stack.cs" />
+    <Compile Include="student.cs" />
     <Compile Include="Video.cs" />
     <Compile Include="VideoEncoder.cs" />
+    <Compile Include="videouploader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
